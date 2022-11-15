@@ -10,8 +10,8 @@ local Ranks = {
     "$1853689359//Tester//Testing=true$",
     "$3988880902//Tester//Testing=true$",
    
-    "$2011828041//Contributor//Testing=true$",
-    "$682615950//Contributor//Testing=false$",
-    "$295419845//Contributor//Testing=false$",
-    "$818547695//Contributor//Testing=false$"
+    "$2011828041//Supporter//Testing=true$",
+    "$682615950//Supporter//Testing=false$",
+    "$295419845//Supporter//Testing=false$",
+    "$818547695//Supporter//Testing=false$"
 }
